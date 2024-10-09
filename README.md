@@ -7,9 +7,8 @@ Test Accuracy (LightGBM): 0.9828338860108905
 
 Confusion Matrix (Test Data, LightGBM):
 
-[[183726   2436]
+![image](https://github.com/user-attachments/assets/f5fead21-72a3-411d-a0ee-97d3c161936e)
 
- [   934   9221]]
 
 Recall (Test Data, LightGBM): 0.9080256031511571
 
