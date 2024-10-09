@@ -2,7 +2,7 @@
 ## LightBGM Model Performance:
 
 Training Accuracy (LightGBM): 0.9839974871385639
-Test Accuracy (LightGBM): 0.9828338860108905
+\nTest Accuracy (LightGBM): 0.9828338860108905
 
 Confusion Matrix (Test Data, LightGBM):
 [[183726   2436]
